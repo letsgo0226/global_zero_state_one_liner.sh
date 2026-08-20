@@ -1,0 +1,1 @@
+# global_zero_state_one_liner.sh
